@@ -76,3 +76,6 @@ DerivedDataCache/*
 /*.uproject.DotSettings.user
 /.vsconfig
 /UpgradeLog.htm
+
+
+Plugins/
