@@ -58,11 +58,11 @@ https://gitee.com/programmingwu/WeaponModProcAimDemo
 ![](Image/README/image2_2_ZH.png)
 
 ## 打开示例项目
-鼠标右击，选择extract all。
+鼠标右击，选择 全部解压缩 。
 
-![](Image/README/image3.png)
+![](Image/README/image3_ZH.png)
 
-![](Image/README/image4.png)
+![](Image/README/image4_ZH.png)
 
 双击.uproject启动项目。
 
