@@ -1,6 +1,6 @@
 # Language
 [English](README.md)
-[Chinese](README_ZH.md)
+[中文](README_ZH.md)
 
 # Need
 This project requires plugin support:
